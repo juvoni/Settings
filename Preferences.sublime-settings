@@ -1,0 +1,88 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"detect_slow_plugins": true,
+	"draw_centered": false,
+	"draw_white_space": "selection",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"Desktop.ini",
+		"*.pyc",
+		"._*",
+		"*.class",
+		"Thumbs.db",
+		".Spotlight-V100",
+		".Trashes"
+	],
+	"findreplace_small": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".svn"
+	],
+	"font_face": "Consolas",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"AngularJS",
+		"Build Next",
+		"D3.js Snippets",
+		"ExtendedTabSwitcher",
+		"Firebase Snippets",
+		"Highlight Build Errors",
+		"Javatar",
+		"Sublimerge Pro",
+		"LESS",
+		"Node Completions",
+		"Outroot Color Schemes",
+		"Theme - Haft Lang",
+		"WordPress"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"material_theme_accent_lime": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tab_separator": true,
+	"overlay_scroll_bars": "enabled",
+	"preview_on_click": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		140
+	],
+	"scroll_past_end": false,
+	"scroll_speed": 5.0,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_large": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
